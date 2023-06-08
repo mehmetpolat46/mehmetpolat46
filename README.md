@@ -23,6 +23,9 @@ Mehmet Polat
 [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white)](https://html.com/)
 
+[![Animasyon](path/to/animation.gif)](https://example.com/)
+
+
 
 
 
