@@ -15,11 +15,21 @@ Mehmet Polat
 
 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
+
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
+
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
+
 [![React](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
-[![HTML](https://img.shields.io/badge/--61DAFB?logo=html&logoColor=000)](https://html.org/)
+
+[![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+
+[![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white)](https://www.w3.org/html/)
+
+
+
 
 
 
