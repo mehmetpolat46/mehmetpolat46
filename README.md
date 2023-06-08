@@ -12,4 +12,4 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
 
 Mehmet Polat
-html5 logo css3 logo javascript logo typescript logo react logo Redux bootstrap logo sass logo Tailwind CSS Git nodejs logo bash logo figma logo firebase logo jira logo codepen logo slack logo trello logo photoshop logo yarn logo
+
