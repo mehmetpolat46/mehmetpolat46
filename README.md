@@ -22,6 +22,9 @@ Mehmet Polat
 [![React](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white)](https://html.com/)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/mehmetpolat46/count.svg?"  />
+</div>
 
 
 
