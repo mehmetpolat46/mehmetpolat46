@@ -12,3 +12,8 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
 
 Mehmet Polat
+
+
+
+https://github.com/mehmetpolat46/mehmetpolat46/assets/133255571/198edf1f-6544-40ff-9ebc-03dfe796df21
+
