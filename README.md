@@ -32,6 +32,8 @@ Mehmet Polat
   <img src="https://profile-counter.glitch.me/mehmetpolat46/count.svg?"  />
 </div>
 
+![ Mehmet POLAT'ın GitHub istatistikleri ](https://github-readme-stats.vercel.app/api?username=mehmetpolat46&show_icons=true&theme=transparent)
+
 
 
 
