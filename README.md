@@ -18,5 +18,5 @@ Mehmet Polat
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
-[![ForTheBadge html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
-[![ForTheBadge css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
+[![ html](http://ForTheBadge.com/images/badges/uses-html.svg)](http://ForTheBadge.com)
+[![ css](http://ForTheBadge.com/images/badges/uses-css.svg)](http://ForTheBadge.com)
