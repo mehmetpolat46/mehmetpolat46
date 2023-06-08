@@ -13,6 +13,8 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 
 Mehmet Polat
 
+[![LinkedIn](https://img.shields.io/badge/--0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-profile-ur](https://www.linkedin.com/in/mehmetpolat46/))
+
 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com)
