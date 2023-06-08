@@ -19,4 +19,12 @@ Mehmet Polat
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![React](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
+<a href="https://www.w3.org/html/" target="_blank">
+  <img src="https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white" alt="HTML5 Logo">
+</a>
+
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img src="https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white" alt="CSS3 Logo">
+</a>
+
 
