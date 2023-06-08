@@ -21,7 +21,7 @@ Mehmet Polat
 [![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/)
 [![React](https://img.shields.io/badge/--61DAFB?logo=react&logoColor=000)](https://reactjs.org/)
 [![CSS](https://img.shields.io/badge/--1572B6?logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
-[![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white)]([[https://www.w3.org/html/](https://html.com/)](https://html.com/))
+[![HTML](https://img.shields.io/badge/--E34F26?logo=html5&logoColor=white)](https://html.com/)
 
 
 
