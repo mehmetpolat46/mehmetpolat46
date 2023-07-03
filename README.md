@@ -32,9 +32,6 @@ Mehmet Polat
   <img src="https://profile-counter.glitch.me/mehmetpolat46/count.svg?"  />
 </div>
 
-![ Mehmet POLAT'ın GitHub istatistikleri ](https://github-readme-stats.vercel.app/api?username=mehmetpolat46&show_icons=true&theme=transparent)]
-
-![ En Çok Kullanılan Diller ](https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetpolat46&theme=blue-green)]
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ilkerteymur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
