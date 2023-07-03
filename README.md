@@ -18,7 +18,7 @@ Mehmet Polat
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehmetpolat46@gmail.com)](mailto:ilkerteymuroglu@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=:mpolat4644@gmail.com)](mailto:mpolat4644@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/--0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehmetpolat46/)
 
 # 💻 Tech Stack:
