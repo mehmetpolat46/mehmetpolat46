@@ -25,7 +25,7 @@ Mehmet Polat
 
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) 
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/mehmetpolat46/) 
-[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)]([https://www.figma.com/](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1108308490743154874))
+[![Figma](https://img.shields.io/badge/--F24E1E?logo=figma&logoColor=ffffff)](https://www.figma.com/files/recents-and-sharing/recently-viewed?fuid=1108308490743154874)
 
 
 
