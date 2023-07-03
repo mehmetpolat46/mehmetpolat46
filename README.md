@@ -9,7 +9,8 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 
 👯 I am always open to collaboration and capable of working harmoniously with a team.
 
-📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork. Reach me out: mpolat4644@gmail.com
+📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
+Reach me out: mpolat4644@gmail.com
 
 Mehmet Polat
 
