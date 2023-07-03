@@ -33,7 +33,7 @@ Mehmet Polat
 </div>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ilkerteymur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=mehmetpolat46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
