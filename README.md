@@ -1,17 +1,15 @@
 **POLAT4446/README.md
 
+<!--  Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
+
+<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
+   
+   <br />  
+   
+   <br/> 
+
 Hi there
-Hi, I'm Mehmet POLAT.
-<!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
-<!-- ### Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
-
-
-   
-  
-   
-  
-
-I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
+Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
 👀 What matters to me is that the code is implementable, functional, and readable.
 
