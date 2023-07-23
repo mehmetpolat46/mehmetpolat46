@@ -22,6 +22,9 @@ Mehmet Polat
    <br />  
    
    <br/> 
+    
+   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mehmet+POLAT;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/mehmetpolat46/)
+   <br />
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
