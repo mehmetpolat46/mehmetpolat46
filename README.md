@@ -11,7 +11,7 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 Reach me out: mpolat4644@gmail.com
 
 
- Mehmet Polat 
+ Mehmet POLAT
  
 ✨  [Personel WebSite](https://mehmetpolat.vercel.app/)
 
