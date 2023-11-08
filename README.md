@@ -9,8 +9,7 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 
 📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
 Reach me out: mpolat4644@gmail.com
-
--  Mehmet Polat 
+ Mehmet Polat 
 - ✨  [Personel WebSite](https://mehmetpolat.vercel.app/)
 
 
