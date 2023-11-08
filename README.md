@@ -3,7 +3,7 @@ Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a profe
 
 👀 What matters to me is that the code is implementable, functional, and readable.
 
-🌱 I’m currently focusing on React, Front-end ve Flutter Technologies.
+🌱 I’m currently focusing on React and Front-end  Technologies.
 
 👯 I am always open to collaboration and capable of working harmoniously with a team.
 
