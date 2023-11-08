@@ -30,8 +30,7 @@ Mehmet Polat
    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polat460234) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetpolat46/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/mehmet_polat)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/mehmetpolat46/) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/mehmet_polat) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=:mpolat4644@gmail.com)](mailto:mpolat4644@gmail.com)
 [![Personal Website](https://img.shields.io/badge/PersonalWebsite-%13D2405F.svg?logo=PersonalWebsite&logoColor=white)](https://mehmetpolat.vercel.app/)
 
