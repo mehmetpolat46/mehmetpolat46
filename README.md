@@ -23,6 +23,10 @@ Mehmet Polat
     
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mehmet+POLAT;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/mehmetpolat46/)
    <br /> <br />
+   <div align="center">
+  
+  <h5 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
+</div>
    
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polat460234) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetpolat46/)
