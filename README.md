@@ -1,5 +1,5 @@
 
-Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
+Hi, I'm Mori Yohito. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
 
 👀 What matters to me is that the code is implementable, functional, and readable.
 
