@@ -1,33 +1,104 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:080B16,50:172554,100:6D28D9&text=MEHMET%20POLAT&fontColor=FFFFFF&fontSize=65&fontAlignY=45&desc=FRONT-END%20DEVELOPER%20%7C%20CREATIVE%20PROBLEM%20SOLVER&descAlignY=65&descSize=15&animation=fadeIn&stroke=38BDF8&strokeWidth=1" width="100%" />
+# 👋 Hi, I'm Mehmet POLAT
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Building+the+web%2C+one+pixel+at+a+time.;Clean+Code.+Creative+Ideas.+Real+Solutions.;Turning+Ideas+Into+Digital+Experiences." />
+### 💻 Front-End Developer | React Enthusiast
 
-<br/><br/>
+**Turning ideas into clean, functional and user-friendly digital experiences.**
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://mehmetpolat.vercel.app)
-[![Let's Talk](https://img.shields.io/badge/LET'S%20TALK-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpolat4644@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Front-End+Developer;React+%7C+JavaScript+%7C+TypeScript;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+
+<a href="https://mehmetpolat.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Website-0078FF?style=for-the-badge" />
+</a>
+<a href="mailto:mpolat4644@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
-<br/>
+---
+
+## 👨‍💻 About Me
+
+I'm **Mehmet POLAT**, a passionate software developer focused on building modern, responsive, and user-friendly web applications.
+
+- 🚀 Currently focusing on **React and Front-End Development**.
+- 🌱 Always learning new technologies and improving my skills.
+- 💡 I believe in writing clean, readable, maintainable, and functional code.
+- 🤝 Open to collaboration, teamwork, and exciting projects.
+- 🎯 Passionate about creating meaningful digital experiences.
+- 💬 Strong communication skills and a collaborative mindset.
 
 ---
 
-### 💻 01 — THE PERSON BEHIND THE CODE
+## 🛠️ Tech Stack & Tools
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="center">
 
-Hey! I'm **Mehmet POLAT**.  
-A developer driven by curiosity, creativity, and the desire to build things that actually make a difference. I enjoy transforming complex ideas into simple, elegant, and functional digital experiences.
+### Frontend Development
 
-```javascript
-const mehmet = {
-  role: "Front-End Developer",
-  focus: ["React", "JavaScript", "TypeScript"],
-  mindset: "Never stop learning",
-  philosophy: "Quality over quantity",
-  goal: "Build meaningful digital products",
-  collaboration: true
-};
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify,trello" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mehmetpolat46/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/polat460234">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:mpolat4644@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://mehmetpolat.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetpolat46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetpolat46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetpolat46&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=mehmetpolat46&theme=tokyonight&hide_border=true" width="65%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Great things are built one line of code at a time."
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=mehmetpolat46&label=PROFILE+VIEWS&color=0078FF&style=for-the-badge" />
+
+</div>
