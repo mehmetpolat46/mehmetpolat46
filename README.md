@@ -1,98 +1,104 @@
+ <div align="center">
 
-Hi, I'm Mehmet POLAT. I'm a dedicated programmer on the path to becoming a professional in software development, driven by determination and passion. I constantly strive to improve myself and embrace learning new technologies.
+# 👋 Hi, I'm Mehmet POLAT
 
-👀 What matters to me is that the code is implementable, functional, and readable.
+### 💻 Front-End Developer | React Enthusiast
 
-🌱 I’m currently focusing on React and Front-end  Technologies.
+**Turning ideas into clean, functional and user-friendly digital experiences.**
 
-👯 I am always open to collaboration and capable of working harmoniously with a team.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Front-End+Developer;React+%7C+JavaScript+%7C+TypeScript;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
 
-📫 Respected by both the customers and colleagues thanks to profound communication skills. Believes generating high-impact results through following ethical standards and teamwork.
-Reach me out: mpolat4644@gmail.com
+<a href="https://mehmetpolat.vercel.app/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Website-0078FF?style=for-the-badge" />
+</a>
+<a href="mailto:mpolat4644@gmail.com">
+  <img src="https://img.shields.io/badge/Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-
- Mehmet POLAT
- 
-✨  [Personel WebSite](https://mehmetpolat.vercel.app/)
-
-
-<!--  Welcome To My Github Profile <a href="https://github.com/Doganmbd?tab=repositories"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>  -->
-
-<h3 align="center">    <img src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="350px" height="200px" />
-   
-   <br />  
-   
-   <br/> 
-    
-   [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=1000&lines=Hi+there+👋,+I+am+Mehmet+POLAT;+Welcome+to+My+Profile!;Always+learning+new+things;I+will+develop+myself+in+the+field+of+IT+for+life;+I+value+teamwork+very+much;)](https://github.com/mehmetpolat46/)
-   <br /> <br />
-   <div align="center">
-  
-  <h5 align="center"><img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
 </div>
-   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/polat460234) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mehmetpolat46/)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/mehmet_polat) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=:mpolat4644@gmail.com)](mailto:mpolat4644@gmail.com)
-[![Personal Website](https://img.shields.io/badge/PersonalWebsite-%13D2405F.svg?logo=PersonalWebsite&logoColor=white)](https://mehmetpolat.vercel.app/)
 
+---
 
+## 👨‍💻 About Me
 
+I'm **Mehmet POLAT**, a passionate software developer focused on building modern, responsive, and user-friendly web applications.
 
- 
+- 🚀 Currently focusing on **React and Front-End Development**.
+- 🌱 Always learning new technologies and improving my skills.
+- 💡 I believe in writing clean, readable, maintainable, and functional code.
+- 🤝 Open to collaboration, teamwork, and exciting projects.
+- 🎯 Passionate about creating meaningful digital experiences.
+- 💬 Strong communication skills and a collaborative mindset.
 
+---
 
-# 💻 Tech Stack:
-
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![ReactJs](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=%23b4c4f4,%23b67148)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23D7D5C6.svg?style=for-the-badge&logo=git&logoColor=#E34F26) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-![Tailwindcss](https://img.shields.io/badge/tailwindcss-%23007ACC.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![postman](https://img.shields.io/badge/postman-%23E34F26.svg?style=for-the-badge&logo=postman&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=blue)
-![Yarn](https://img.shields.io/badge/yarn-%232B8AB5.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-
-
-
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-  <h5 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h5> 
+### Frontend Development
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,sass,bootstrap,vite" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+
+### Tools & Workflow
+
+<img src="https://skillicons.dev/icons?i=git,github,figma,postman,vscode,vercel,netlify,trello" />
+
 </div>
+
+---
+
+## 🤝 Let's Connect!
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/mehmetpolat46/count.svg?"  />
+
+<a href="https://linkedin.com/in/mehmetpolat46/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://instagram.com/polat460234">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:mpolat4644@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://mehmetpolat.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mehmetpolat46&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+---
 
+## 🏆 GitHub Achievements
 
+<div align="center">
 
+<img src="https://github-profile-trophy.vercel.app/?username=mehmetpolat46&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" width="100%" />
 
+<br/><br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=mehmetpolat46&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetpolat46&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 
+<br/><br/>
 
+<img src="https://streak-stats.demolab.com?user=mehmetpolat46&theme=tokyonight&hide_border=true" width="65%" />
 
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Great things are built one line of code at a time."
+
+**Thanks for visiting my profile! Let's build something amazing together.** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=mehmetpolat46&label=PROFILE+VIEWS&color=0078FF&style=for-the-badge" />
+
+</div>
