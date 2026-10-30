@@ -6,7 +6,7 @@
 
 **Turning ideas into clean, functional and user-friendly digital experiences.**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Front-End+Developer;React+%7C+JavaScript+%7C+TypeScript;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Passionate+Front-End+Developer;React+%7C+JavaScript+%7C+TypeScript;WordPress+Developer;Always+Learning%2C+Always+Growing!" alt="Typing SVG" />>
 
 <a href="https://mehmetpolat.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Visit_My_Website-0078FF?style=for-the-badge" />
