@@ -4,16 +4,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&repeat=true&width=650&lines=Building+the+web%2C+one+pixel+at+a+time.;Clean+Code.+Creative+Ideas.+Real+Solutions.;Turning+Ideas+Into+Digital+Experiences." />
 
-<br/>
+<br/><br/>
 
 [![Portfolio](https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-38BDF8?style=for-the-badge&logo=vercel&logoColor=black)](https://mehmetpolat.vercel.app)
 [![Let's Talk](https://img.shields.io/badge/LET'S%20TALK-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpolat4644@gmail.com)
 
 </div>
 
+<br/>
+
 ---
 
-### 🚀 01 — THE PERSON BEHIND THE CODE
+### 💻 01 — THE PERSON BEHIND THE CODE
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
